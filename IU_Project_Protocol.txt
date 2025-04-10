@@ -1,1 +1,2 @@
 This is the beginning of the Development Project from Daniel Miller
+2025-04-10: added .gitignore, README and python file
